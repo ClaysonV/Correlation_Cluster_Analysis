@@ -28,7 +28,7 @@ To move beyond basic correlation matrices and visually reconstruct market relati
 
 1.  **Clone & Install**
     ```bash
-    clone git
+    git clone [https://github.com/ClaysonV/Correlation_Cluster_Analysis.git](https://github.com/ClaysonV/Correlation_Cluster_Analysis.git)
     cd Correlation_Cluster_Analysis
     pip install -r requirements.txt
     ```
