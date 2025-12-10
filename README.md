@@ -18,17 +18,17 @@ To move beyond basic correlation matrices and visually reconstruct market relati
 * **Sector Matrix:** Aggregates individual stocks into 11 sectors to show macro-level relationships (e.g., "Does Crypto correlate with Tech or Gold?").
 * **Targeted Analysis:** Allows the user to input a specific asset (e.g., `BTC-USD`) and generates a ranked bar chart of its top positive and negative correlations.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Python**
 * **yfinance** (Data Ingestion)
 * **pandas & numpy** (Statistical Calc)
 * **seaborn & scipy** (Clustering & Visualization)
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Clone & Install**
     ```bash
-    git clone [https://github.com/ClaysonV/Correlation_Cluster_Analysis.git](https://github.com/ClaysonV/Correlation_Cluster_Analysis.git)
+    clone git
     cd Correlation_Cluster_Analysis
     pip install -r requirements.txt
     ```
@@ -45,7 +45,7 @@ To move beyond basic correlation matrices and visually reconstruct market relati
 * **Energy is the rebel.** Oil stocks (XOM, CVX) were among the few assets that actually ignored the Tech crash, validating them as a true diversifier.
 * **Bonds are lonely.** TLT (Treasuries) sat in its own isolated corner, proving that the classic 60/40 split still has mathematical merit.
 
-## 📷 Outputs
+##  Outputs
 
 **1. The Asset Cluster Map**
 *See the red blocks? Those are assets moving in lockstep.*
